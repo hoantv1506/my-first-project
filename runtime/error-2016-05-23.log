@@ -1,0 +1,14 @@
+Exception [::1 2016-05-23 07:00:54]Template file not found:C:\xampp\htdocs\xyz\apps\Frontend\\Template/\First/default.phtml in C:\xampp\htdocs\xyz\vendor\tronghieu\flywheel-framework\src\Flywheel\View\Render.php line 133n	Stack trace:
+	#0 C:\xampp\htdocs\xyz\vendor\tronghieu\flywheel-framework\src\Flywheel\Controller\Web.php (337): render()
+	#1 C:\xampp\htdocs\xyz\vendor\tronghieu\flywheel-framework\src\Flywheel\Controller\Web.php (314): _renderPage()
+	#2 C:\xampp\htdocs\xyz\vendor\tronghieu\flywheel-framework\src\Flywheel\Application\WebApp.php (79): render()
+	#3 C:\xampp\htdocs\xyz\vendor\tronghieu\flywheel-framework\src\Flywheel\Application\WebApp.php (48): _loadController()
+	#4 C:\xampp\htdocs\xyz\www_html\index.php (16): run()
+REQUEST_URI=/xyz/www_html/
+Exception [::1 2016-05-23 07:02:06]Template file not found:C:\xampp\htdocs\xyz\apps\Frontend\\Template/\First/default.phtml in C:\xampp\htdocs\xyz\vendor\tronghieu\flywheel-framework\src\Flywheel\View\Render.php line 133n	Stack trace:
+	#0 C:\xampp\htdocs\xyz\vendor\tronghieu\flywheel-framework\src\Flywheel\Controller\Web.php (337): render()
+	#1 C:\xampp\htdocs\xyz\vendor\tronghieu\flywheel-framework\src\Flywheel\Controller\Web.php (314): _renderPage()
+	#2 C:\xampp\htdocs\xyz\vendor\tronghieu\flywheel-framework\src\Flywheel\Application\WebApp.php (79): render()
+	#3 C:\xampp\htdocs\xyz\vendor\tronghieu\flywheel-framework\src\Flywheel\Application\WebApp.php (48): _loadController()
+	#4 C:\xampp\htdocs\xyz\www_html\index.php (16): run()
+REQUEST_URI=/xyz/www_html/
